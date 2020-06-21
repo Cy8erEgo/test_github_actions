@@ -11,6 +11,10 @@ def doubler(n):
     return n * 2
 
 
+def test()
+    pass
+
+
 if __name__ == "__main__":
     print(doubler(3))
     print(doubler(5))
